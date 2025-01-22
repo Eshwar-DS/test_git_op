@@ -1,3 +1,3 @@
 # Git Operations Test
 
-create a merge conflict
+merge conflict created
