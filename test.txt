@@ -6,4 +6,4 @@ this file is in dev branch
 
 made changes in the dev branch f1
 
-f2 dev branch
+f1 dev branch
